@@ -1,0 +1,7 @@
+{
+    "name": "i20veinte/html",
+    "description": "Write fast HTML tags",
+    "require": {
+        "php": "^7.2",
+    }
+}
