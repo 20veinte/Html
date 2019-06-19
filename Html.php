@@ -1,5 +1,7 @@
 <?php
 
+namespace i20veinte\Html;
+
 class Html{
 
   //var $html;
