@@ -3,5 +3,11 @@
     "description": "Write fast HTML tags",
     "require": {
         "php": "^5.5"
-    }
+    },
+    "autoload": {
+        "psr-4": {
+          "i20veinte\\Html\\": "html/"
+        },
+        "files": ["lib/SendGrid.php"]
+  },
 }
