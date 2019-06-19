@@ -1,2 +1,2 @@
 # Html
-Write fast HTML tags
+Write fast HTML tags with a simple class
