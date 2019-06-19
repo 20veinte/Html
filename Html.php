@@ -1,6 +1,6 @@
 <?php
 
-namespace i20veinte\Html;
+namespace \20veinte\Html;
 
 class Html{
 
