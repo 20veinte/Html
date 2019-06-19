@@ -7,7 +7,6 @@
     "autoload": {
         "psr-4": {
           "i20veinte\\Html\\": "html/"
-        },
-        "files": ["lib/SendGrid.php"]
-  },
+        }
+    }
 }
